@@ -1,0 +1,19 @@
+{
+  "name": "npm-course",
+  "version": "1.0.0",
+  "description": "This is the npm app I created to practice with the npm course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martinarzuaga/npm-course.git"
+  },
+  "author": "Martin Arzuaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinarzuaga/npm-course/issues"
+  },
+  "homepage": "https://github.com/martinarzuaga/npm-course#readme"
+}
